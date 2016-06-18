@@ -36,3 +36,4 @@ This branch is for building 6.0.x based ROMs.
         # DerTeufel
         
         # all those who initially brought up Android M to MTK
+# device_zte_bladel2
